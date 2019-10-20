@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ecology-2.exe" size="405472">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ecology-2.exe" size="638432">
       <assemblyIdentity name="Ecology-2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0h6OgeDJ9fMN1lv68T/2dIJRLsmsNf7OZaEBFing5sU=</dsig:DigestValue>
+        <dsig:DigestValue>CfwKrX2cLISzku3O8F/NIXcKZFKEbxPeyB7IOmIHV9Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

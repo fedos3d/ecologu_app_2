@@ -15,3 +15,6 @@ C:\Users\Федор\source\repos\Ecology-2\Ecology-2\obj\Release\Ecology-2.exe.m
 C:\Users\Федор\source\repos\Ecology-2\Ecology-2\obj\Release\Ecology-2.application
 C:\Users\Федор\source\repos\Ecology-2\Ecology-2\obj\Release\Ecology-2.exe
 C:\Users\Федор\source\repos\Ecology-2\Ecology-2\obj\Release\Ecology-2.pdb
+C:\Users\Федор\source\repos\Ecology-2\Ecology-2\obj\Release\Ecology_2.Init.resources
+C:\Users\Федор\source\repos\Ecology-2\Ecology-2\obj\Release\Ecology_2.unchang.resources
+C:\Users\Федор\source\repos\Ecology-2\Ecology-2\obj\Release\Ecology_2.CalcForm.resources
