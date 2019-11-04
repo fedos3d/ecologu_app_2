@@ -41,7 +41,7 @@
             this.richTextBox1.Size = new System.Drawing.Size(340, 58);
             this.richTextBox1.TabIndex = 0;
             this.richTextBox1.TabStop = false;
-            this.richTextBox1.Text = "Версия программы: 1.1   Создатель программы: Аникеев Федор студент первого курса " +
+            this.richTextBox1.Text = "Версия программы: 1.2   Создатель программы: Аникеев Федор студент первого курса " +
     "Экономического факультета, группа ИСТ-19-2 Отправить свой фидбек вы можете по ад" +
     "ресу: fedos3d@gmail.com";
             this.richTextBox1.TextChanged += new System.EventHandler(this.RichTextBox1_TextChanged);

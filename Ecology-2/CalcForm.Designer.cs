@@ -73,7 +73,7 @@
             // 
             this.CurPDK.Location = new System.Drawing.Point(217, 104);
             this.CurPDK.Name = "CurPDK";
-            this.CurPDK.Size = new System.Drawing.Size(100, 20);
+            this.CurPDK.Size = new System.Drawing.Size(159, 20);
             this.CurPDK.TabIndex = 2;
             // 
             // comboBox1
@@ -84,15 +84,17 @@
             "0,04(NO2)",
             "0,05(SO2)",
             "3,0(CO)",
-            "0,005(HF)"});
+            "0,005(HF)",
+            "0,06(NO)",
+            "0,15(Взвешенные вещества)"});
             this.comboBox1.Location = new System.Drawing.Point(217, 73);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(100, 21);
+            this.comboBox1.Size = new System.Drawing.Size(159, 21);
             this.comboBox1.TabIndex = 1;
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(201, 162);
+            this.button4.Location = new System.Drawing.Point(232, 162);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(131, 23);
             this.button4.TabIndex = 4;
@@ -104,7 +106,7 @@
             // 
             this.CurM.Location = new System.Drawing.Point(217, 136);
             this.CurM.Name = "CurM";
-            this.CurM.Size = new System.Drawing.Size(100, 20);
+            this.CurM.Size = new System.Drawing.Size(159, 20);
             this.CurM.TabIndex = 3;
             // 
             // label9

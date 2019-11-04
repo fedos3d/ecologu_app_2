@@ -67,6 +67,14 @@ namespace Ecology_2
                     {
                         PDK = 0.005;
                     }
+                    else if (m == 4)
+                    {
+                        PDK = 0.06;
+                    }
+                    else if (m == 5)
+                    {
+                        PDK = 0.15;
+                    }
                     readytogo = true;
                     ifPDK = true;
                 } else
